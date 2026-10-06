@@ -2,70 +2,120 @@
 
 # PARTH THAKUR
 
-### Software Development · AI/ML · Intelligent Systems
+### SOFTWARE  ·  AI/ML  ·  INTELLIGENT SYSTEMS
 
-Building software and machine learning solutions that solve real-world problems.
+Building practical software and machine learning solutions.
 
-**Python · C++ · SQL · Machine Learning · Flask · REST APIs**
+<br>
+
+<a href="https://github.com/parthhhhh10">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:parthhhhh10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
+<br>
+
 ---
 
-## ⚡ Tech Stack
+## TECHNOLOGIES
 
 <div align="center">
 
-### Languages
-`Python` `C++` `SQL`
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,sklearn,tensorflow,pandas,numpy,docker,git,arduino,esp32" />
 
-### Machine Learning
-`Scikit-learn` `XGBoost` `TensorFlow` `Pandas` `NumPy`
+<br><br>
 
-### Generative AI
-`LangChain` `RAG` `ChromaDB` `Pinecone` `FAISS` `Ollama`
-
-### Backend & Tools
-`Flask` `REST APIs` `MySQL` `Docker` `Git`
-
-### Embedded & IoT
-`Arduino` `ESP32`
+`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Generative AI`  
+`REST APIs` &nbsp; `Data Analysis` &nbsp; `Computer Vision`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## SELECTED WORK
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💊 MediBot
+
 **IoT-Enabled & AI-Assisted Medicine Dispenser**
 
-AI-assisted medicine dispensing system for automated medication scheduling and adherence, with real-time monitoring and sensor-based automation.
+An AI-assisted medicine dispensing system designed for automated medication scheduling and adherence, combining embedded hardware with software for real-time monitoring and intelligent medication management.
 
-`ESP32` `React` `REST API` `Flask` `MySQL` `Tailwind CSS`
+**Stack**
 
----
+`ESP32` `React` `Flask`  
+`REST API` `MySQL` `Tailwind CSS`
+
+**Patent Filed**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔥 Fire Sentinel
-**AI-Based Fire Detection & Suppression System**
 
-AI-powered fire detection system for real-time hazard identification using computer vision, with automated alerting and suppression through embedded control.
+**AI-Based Fire Detection & Suppression**
 
-`Python` `YOLOv8` `OpenCV` `Arduino` `Machine Learning` `Deep Learning`
+A computer-vision based system for real-time fire detection, with automated alerting and suppression through embedded system control.
 
----
+**Stack**
+
+`Python` `YOLOv8` `OpenCV`  
+`Arduino` `ML` `Deep Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📊 CTR Prediction
+
 **Click-Through Rate Prediction System**
 
-Machine learning system that predicts ad click-through behavior using user and browsing data, with a Flask-based interface for real-time predictions.
+A machine learning system that predicts ad click-through behavior using user and browsing data, with a Flask-based interface for real-time predictions.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Random Forest` `Flask`
+**Stack**
+
+`Python` `Pandas` `NumPy`  
+`Scikit-learn` `Random Forest` `Flask`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 01
+
+**Building with data.**
+
+Exploring machine learning, intelligent applications and software systems through hands-on projects.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Building • Learning • Shipping
+### LANGUAGES & TOOLS
+
+Python · C++ · SQL · Flask · Scikit-learn · TensorFlow · XGBoost  
+LangChain · RAG · MySQL · Docker · Git · Arduino · ESP32
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=parthhhhh10&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
 
 </div>
