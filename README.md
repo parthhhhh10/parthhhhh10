@@ -8,9 +8,9 @@
 
 `SOFTWARE` &nbsp; `MACHINE LEARNING` &nbsp; `DEEP LEARNING` &nbsp; `GENERATIVE AI`
 
-<br><br>
-
 </div>
+
+<br>
 
 ---
 
@@ -18,52 +18,111 @@
 
 ## ✦ TECHNOLOGY
 
+</div>
+
 <br>
 
+<table align="center" width="90%">
+<tr>
+
+<td align="center" width="50%">
+
 ### LANGUAGES
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
 <br><br>
 
-### MACHINE LEARNING · DEEP LEARNING
+`Python` &nbsp; `C++` &nbsp; `SQL`
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+</td>
+
+<td align="center" width="50%">
+
+### MACHINE LEARNING
 
 <br>
 
-`Machine Learning` &nbsp; `Deep Learning`
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 
 <br><br>
+
+`Machine Learning` &nbsp; `Deep Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### GENERATIVE AI
 
 <br>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-5865F2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black"/>
-
-<br><br>
-
-### SOFTWARE · TOOLS · EMBEDDED
+`LangChain` &nbsp; `RAG`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=flask,docker,git,arduino,esp32" />
+`ChromaDB` &nbsp; `Pinecone` &nbsp; `FAISS` &nbsp; `Ollama`
+
+</td>
+
+<td align="center" width="50%">
+
+### SOFTWARE & TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flask,docker,git" />
 
 <br><br>
 
-`REST APIs` &nbsp; `MySQL` &nbsp; `HTML` &nbsp; `CSS`
+`Flask` &nbsp; `REST APIs` &nbsp; `MySQL` &nbsp; `Docker` &nbsp; `Git`
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### DATA & LIBRARIES
+
+<br>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib`
+
+<br>
+
+`Seaborn` &nbsp; `Scikit-learn` &nbsp; `XGBoost`
+
+</td>
+
+<td align="center" width="50%">
+
+### EMBEDDED & IoT
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=arduino,esp32" />
+
+<br><br>
+
+`Arduino` &nbsp; `ESP32`
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
-
-<br>
 
 <div align="center">
 
@@ -73,99 +132,93 @@
 
 <br>
 
-<table width="100%">
+<table width="90%" align="center">
+
 <tr>
 
-<td colspan="2">
-
-<div align="center">
+<td align="center">
 
 # 💊 MEDIBOT
 
 ### IoT-Enabled & AI-Assisted Medicine Dispenser
 
-</div>
+<br>
 
 AI-assisted medicine dispensing system for automated medication scheduling and adherence, integrating embedded hardware with software for real-time monitoring, intelligent medication management and sensor-based automation.
 
-<br>
+<br><br>
 
-<div align="center">
-
-`ESP32` · `React` · `REST API` · `Flask` · `MySQL` · `Tailwind CSS`
+`ESP32` &nbsp; `React` &nbsp; `REST API` &nbsp; `Flask` &nbsp; `MySQL` &nbsp; `Tailwind CSS`
 
 <br><br>
 
 **PATENT FILED · 2026**
 
-</div>
-
 </td>
 
 </tr>
 
+</table>
+
+<br>
+
+<table width="90%" align="center">
+
 <tr>
 
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" valign="top" align="center">
 
 ## 🔥 FIRE SENTINEL
 
 ### AI-Based Fire Detection & Suppression
 
-</div>
+<br>
 
 AI-powered fire detection system for real-time hazard identification using computer vision, with automated alerting and suppression through embedded system control.
 
-<br>
-
-<div align="center">
+<br><br>
 
 `Python` · `YOLOv8` · `OpenCV`
 
 `Arduino` · `Machine Learning` · `Deep Learning`
 
-</div>
-
 </td>
 
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" valign="top" align="center">
 
 ## 📊 CTR PREDICTION
 
-### Click-Through Rate Prediction System
-
-</div>
-
-Machine learning system that predicts ad click-through behavior using user and browsing data, with a Flask-based interface for real-time predictions.
+### Click-Through Rate Prediction
 
 <br>
 
-<div align="center">
+Machine learning system for predicting ad click-through behavior using user and browsing data, with a Flask-based interface for real-time predictions.
+
+<br><br>
 
 `Python` · `Pandas` · `NumPy`
 
 `Scikit-learn` · `Random Forest` · `Flask`
 
-</div>
-
 </td>
 
 </tr>
+
 </table>
+
+<br>
 
 ---
 
-<br>
-
 <div align="center">
 
-### SOFTWARE · AI/ML · GENERATIVE AI
+## ✦ FOCUS
 
 <br>
+
+**SOFTWARE** &nbsp; · &nbsp; **AI/ML** &nbsp; · &nbsp; **GENERATIVE AI** &nbsp; · &nbsp; **INTELLIGENT SYSTEMS**
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
 
