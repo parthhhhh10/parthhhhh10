@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,sklearn,tensorflow,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git" />
 
 </div>
 
@@ -48,7 +48,7 @@ AI-assisted medicine dispensing system for automated medication scheduling and a
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 02 &nbsp; / &nbsp; FIRE SENTINEL
 
@@ -59,11 +59,11 @@ Computer-vision system for real-time fire detection with automated alerting and 
 <br>
 
 `Python` `YOLOv8` `OpenCV`  
-`Arduino` `Machine Learning`
+`Arduino` `Machine Learning` `Deep Learning`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 03 &nbsp; / &nbsp; CTR PREDICTION
 
@@ -73,8 +73,8 @@ Machine learning system for predicting ad click-through behavior with a Flask-ba
 
 <br>
 
-`Python` `Pandas` `Scikit-learn`  
-`Random Forest` `Flask`
+`Python` `Pandas` `NumPy`  
+`Scikit-learn` `Random Forest` `Flask`
 
 </td>
 </tr>
@@ -100,19 +100,34 @@ Machine learning system for predicting ad click-through behavior with a Flask-ba
 
 `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Computer Vision`
 
+<br>
+
 `Scikit-learn` &nbsp; `XGBoost` &nbsp; `TensorFlow`
+
+<br>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Seaborn`
 
 <br><br>
 
 ### GENERATIVE AI
 
-`LangChain` &nbsp; `RAG` &nbsp; `ChromaDB` &nbsp; `Pinecone` &nbsp; `FAISS` &nbsp; `Ollama`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-5B5BFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
 
 <br><br>
 
 ### SOFTWARE & SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=flask,docker,git,arduino,esp32" />
+
+<br><br>
+
+`REST APIs` &nbsp; `MySQL` &nbsp; `HTML` &nbsp; `CSS`
 
 </div>
 
