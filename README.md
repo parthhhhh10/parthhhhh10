@@ -2,19 +2,19 @@
 
 <br>
 
-# PARTH THAKUR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=PARTH%20THAKUR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20%C3%97%20AI%2FML&descAlignY=62&descSize=18&descColor=58A6FF" width="100%"/>
 
-### `SOFTWARE × AI/ML`
+<br>
 
-**Building practical systems with code, data and intelligence.**
+### Building practical systems with code, data & intelligence.
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,sklearn,tensorflow,docker,git" />
 
-<br><br>
-
 </div>
+
+<br>
 
 ---
 
@@ -26,20 +26,21 @@
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
-<td width="100%" colspan="2">
+<td colspan="2">
 
-### 💊 MEDIBOT
-#### IoT-Enabled & AI-Assisted Medicine Dispenser
+### 01 &nbsp; / &nbsp; MEDIBOT
 
-AI-assisted medicine dispensing system for automated medication scheduling and adherence, combining embedded hardware with a software interface for real-time monitoring and intelligent medication management.
+# 💊 IoT-Enabled & AI-Assisted Medicine Dispenser
 
-<br>
-
-**`ESP32` `React` `REST API` `Flask` `MySQL` `Tailwind CSS`**
+AI-assisted medicine dispensing system for automated medication scheduling and adherence, integrating embedded hardware with software for real-time monitoring and intelligent medication management.
 
 <br>
+
+`ESP32` &nbsp; `React` &nbsp; `REST API` &nbsp; `Flask` &nbsp; `MySQL` &nbsp; `Tailwind CSS`
+
+<br><br>
 
 **PATENT FILED · 2026**
 
@@ -47,33 +48,33 @@ AI-assisted medicine dispensing system for automated medication scheduling and a
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔥 FIRE SENTINEL
+### 02 &nbsp; / &nbsp; FIRE SENTINEL
 
-**AI-Based Fire Detection & Suppression**
+## 🔥 AI-Based Fire Detection & Suppression
 
-Computer-vision based fire detection system for real-time hazard identification with automated alerting and suppression through embedded control.
+Computer-vision system for real-time fire detection with automated alerting and suppression through embedded control.
 
 <br>
 
 `Python` `YOLOv8` `OpenCV`  
-`Arduino` `ML` `Deep Learning`
+`Arduino` `Machine Learning`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 CTR PREDICTION
+### 03 &nbsp; / &nbsp; CTR PREDICTION
 
-**Click-Through Rate Prediction**
+## 📊 Click-Through Rate Prediction
 
 Machine learning system for predicting ad click-through behavior with a Flask-based interface for real-time predictions.
 
 <br>
 
-`Python` `Pandas` `NumPy`  
-`Scikit-learn` `Random Forest` `Flask`
+`Python` `Pandas` `Scikit-learn`  
+`Random Forest` `Flask`
 
 </td>
 </tr>
@@ -85,40 +86,46 @@ Machine learning system for predicting ad click-through behavior with a Flask-ba
 
 <div align="center">
 
-## STACK
+## TOOLKIT
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git,arduino" />
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
 <br><br>
 
-`Machine Learning` · `Deep Learning` · `Generative AI` · `REST APIs` · `Computer Vision`
+### AI / MACHINE LEARNING
 
-<br>
+`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Computer Vision`
 
-`LangChain` · `RAG` · `ChromaDB` · `Pinecone` · `FAISS` · `Ollama`
+`Scikit-learn` &nbsp; `XGBoost` &nbsp; `TensorFlow`
+
+<br><br>
+
+### GENERATIVE AI
+
+`LangChain` &nbsp; `RAG` &nbsp; `ChromaDB` &nbsp; `Pinecone` &nbsp; `FAISS` &nbsp; `Ollama`
+
+<br><br>
+
+### SOFTWARE & SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=flask,docker,git,arduino,esp32" />
 
 </div>
+
+<br>
 
 ---
 
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthhhhh10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
+### `BUILD  ·  EXPERIMENT  ·  ITERATE`
 
 <br>
 
-<div align="center">
-
-`BUILD · EXPERIMENT · ITERATE`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
