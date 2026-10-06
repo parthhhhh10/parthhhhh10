@@ -23,11 +23,12 @@
 <br>
 
 <table align="center" width="90%">
+
 <tr>
 
 <td align="center" width="50%">
 
-### LANGUAGES
+### PROGRAMMING LANGUAGES
 
 <br>
 
@@ -45,17 +46,43 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+`Regression` &nbsp; `Classification` &nbsp; `Decision Trees`
 
-<br><br>
+<br>
 
-`Machine Learning` &nbsp; `Deep Learning`
+`EDA` &nbsp; `Feature Engineering` &nbsp; `PCA`
+
+<br>
+
+`ML Pipelines` &nbsp; `Hyperparameter Tuning`
+
+<br>
+
+`Evaluation Metrics` &nbsp; `SVM`
+
+<br>
+
+`Ensemble Learning` &nbsp; `Random Forests`
 
 </td>
 
 </tr>
 
 <tr>
+
+<td align="center" width="50%">
+
+### DEEP LEARNING
+
+<br>
+
+`Gradient Based Learning`
+
+<br>
+
+`Regularization` &nbsp; `CNN`
+
+</td>
 
 <td align="center" width="50%">
 
@@ -67,21 +94,15 @@
 
 <br>
 
-`ChromaDB` &nbsp; `Pinecone` &nbsp; `FAISS` &nbsp; `Ollama`
-
-</td>
-
-<td align="center" width="50%">
-
-### SOFTWARE & TOOLS
+`Vector Databases`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=flask,docker,git" />
+`ChromaDB` &nbsp; `Pinecone` &nbsp; `FAISS`
 
-<br><br>
+<br>
 
-`Flask` &nbsp; `REST APIs` &nbsp; `MySQL` &nbsp; `Docker` &nbsp; `Git`
+`Ollama`
 
 </td>
 
@@ -91,15 +112,63 @@
 
 <td align="center" width="50%">
 
-### DATA & LIBRARIES
+### FRAMEWORKS & LIBRARIES
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=flask,tensorflow" />
+
+<br><br>
 
 `NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib`
 
 <br>
 
 `Seaborn` &nbsp; `Scikit-learn` &nbsp; `XGBoost`
+
+<br>
+
+`Flask` &nbsp; `TensorFlow`
+
+</td>
+
+<td align="center" width="50%">
+
+### WEB TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<br><br>
+
+`HTML` &nbsp; `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### TOOLS & PLATFORMS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,docker,mysql" />
+
+<br><br>
+
+`Git` &nbsp; `Docker` &nbsp; `REST APIs`
+
+<br>
+
+`Excel` &nbsp; `Power BI` &nbsp; `MySQL`
+
+<br>
+
+`TensorBoard`
 
 </td>
 
@@ -118,6 +187,7 @@
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -148,7 +218,7 @@ AI-assisted medicine dispensing system for automated medication scheduling and a
 
 <br><br>
 
-`ESP32` &nbsp; `React` &nbsp; `REST API` &nbsp; `Flask` &nbsp; `MySQL` &nbsp; `Tailwind CSS`
+`ESP32` · `React` · `REST API` · `Flask` · `MySQL` · `Tailwind CSS`
 
 <br><br>
 
@@ -212,13 +282,9 @@ Machine learning system for predicting ad click-through behavior using user and 
 
 <div align="center">
 
-## ✦ FOCUS
+### SOFTWARE · AI/ML · GENERATIVE AI
 
 <br>
-
-**SOFTWARE** &nbsp; · &nbsp; **AI/ML** &nbsp; · &nbsp; **GENERATIVE AI** &nbsp; · &nbsp; **INTELLIGENT SYSTEMS**
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
 
