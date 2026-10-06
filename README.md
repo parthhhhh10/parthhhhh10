@@ -1,121 +1,124 @@
 <div align="center">
 
+<br>
+
 # PARTH THAKUR
 
-### SOFTWARE  ·  AI/ML  ·  INTELLIGENT SYSTEMS
+### `SOFTWARE × AI/ML`
 
-Building practical software and machine learning solutions.
-
-<br>
-
-<a href="https://github.com/parthhhhh10">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:parthhhhh10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+**Building practical systems with code, data and intelligence.**
 
 <br>
 
----
-
-## TECHNOLOGIES
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,sklearn,tensorflow,pandas,numpy,docker,git,arduino,esp32" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,sklearn,tensorflow,docker,git" />
 
 <br><br>
 
-`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Generative AI`  
-`REST APIs` &nbsp; `Data Analysis` &nbsp; `Computer Vision`
-
 </div>
 
 ---
 
+<div align="center">
+
 ## SELECTED WORK
 
-<table>
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
+<td width="100%" colspan="2">
 
-<td width="50%" valign="top">
+### 💊 MEDIBOT
+#### IoT-Enabled & AI-Assisted Medicine Dispenser
 
-### 💊 MediBot
+AI-assisted medicine dispensing system for automated medication scheduling and adherence, combining embedded hardware with a software interface for real-time monitoring and intelligent medication management.
 
-**IoT-Enabled & AI-Assisted Medicine Dispenser**
+<br>
 
-An AI-assisted medicine dispensing system designed for automated medication scheduling and adherence, combining embedded hardware with software for real-time monitoring and intelligent medication management.
+**`ESP32` `React` `REST API` `Flask` `MySQL` `Tailwind CSS`**
 
-**Stack**
+<br>
 
-`ESP32` `React` `Flask`  
-`REST API` `MySQL` `Tailwind CSS`
-
-**Patent Filed**
+**PATENT FILED · 2026**
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-### 🔥 Fire Sentinel
+### 🔥 FIRE SENTINEL
 
 **AI-Based Fire Detection & Suppression**
 
-A computer-vision based system for real-time fire detection, with automated alerting and suppression through embedded system control.
+Computer-vision based fire detection system for real-time hazard identification with automated alerting and suppression through embedded control.
 
-**Stack**
+<br>
 
 `Python` `YOLOv8` `OpenCV`  
 `Arduino` `ML` `Deep Learning`
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-### 📊 CTR Prediction
+### 📊 CTR PREDICTION
 
-**Click-Through Rate Prediction System**
+**Click-Through Rate Prediction**
 
-A machine learning system that predicts ad click-through behavior using user and browsing data, with a Flask-based interface for real-time predictions.
+Machine learning system for predicting ad click-through behavior with a Flask-based interface for real-time predictions.
 
-**Stack**
+<br>
 
 `Python` `Pandas` `NumPy`  
 `Scikit-learn` `Random Forest` `Flask`
 
 </td>
-
-<td width="50%" valign="top">
-
-### 01
-
-**Building with data.**
-
-Exploring machine learning, intelligent applications and software systems through hands-on projects.
-
-</td>
-
 </tr>
 </table>
+
+<br>
 
 ---
 
 <div align="center">
 
-### LANGUAGES & TOOLS
+## STACK
 
-Python · C++ · SQL · Flask · Scikit-learn · TensorFlow · XGBoost  
-LangChain · RAG · MySQL · Docker · Git · Arduino · ESP32
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git,arduino" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthhhhh10&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
+`Machine Learning` · `Deep Learning` · `Generative AI` · `REST APIs` · `Computer Vision`
+
+<br>
+
+`LangChain` · `RAG` · `ChromaDB` · `Pinecone` · `FAISS` · `Ollama`
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parthhhhh10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh10&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`BUILD · EXPERIMENT · ITERATE`
 
 </div>
