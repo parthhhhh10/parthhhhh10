@@ -4,259 +4,149 @@
 
 # PARTH THAKUR
 
-### SOFTWARE × AI/ML
+### Software × AI/ML
 
-**Building practical systems with code, data & intelligence.**
+Building practical software and intelligent systems.
 
 <br>
 
-`SOFTWARE` &nbsp; `MACHINE LEARNING` &nbsp; `GENERATIVE AI` &nbsp; `COMPUTER VISION`
+`Python` · `C++` · `SQL` · `Machine Learning` · `GenAI` · `Flask`
 
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git" />
-
-<br>
 
 </div>
 
 ---
 
-<br>
+## TECH STACK
 
-<div align="center">
-
-# 01 / SELECTED WORK
-
-</div>
-
-<br>
-
-<table width="100%">
+<table align="center">
 <tr>
-<td>
 
-## 💊 MEDIBOT
+<td align="center" width="25%">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+
+<br>
+
+Python · C++ · SQL
+
+</td>
+
+<td align="center" width="25%">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<br>
+
+Scikit-learn · XGBoost  
+TensorFlow · Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### GENAI
+
+LangChain · RAG
+
+<br>
+
+ChromaDB · Pinecone  
+FAISS · Ollama
+
+</td>
+
+<td align="center" width="25%">
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=flask,docker,git" />
+
+<br>
+
+Flask · REST APIs  
+Docker · Git · MySQL
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## FEATURED PROJECTS
+
+<br>
+
+<table>
+<tr>
+<td colspan="2">
+
+# 💊 MediBot
 
 ### IoT-Enabled & AI-Assisted Medicine Dispenser
 
-AI-assisted medicine dispensing system for automated medication scheduling and adherence.
-
-Combines embedded hardware with software for **real-time monitoring, intelligent medication management and sensor-based automation.**
+AI-assisted medicine dispensing system for automated medication scheduling and adherence, integrating embedded hardware with software for real-time monitoring and intelligent medication management.
 
 <br>
 
 **ESP32** · **React** · **REST API** · **Flask** · **MySQL** · **Tailwind CSS**
 
-<br><br>
+<br>
 
-> **PATENT FILED · 2026**
+`PATENT FILED · 2026`
 
 </td>
 </tr>
-</table>
 
-<br>
-
-<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 02 / FIRE SENTINEL
+### 🔥 Fire Sentinel
 
-### 🔥 AI-Based Fire Detection & Suppression
+**AI-Based Fire Detection & Suppression**
 
-Real-time fire detection using computer vision with automated alerting and suppression through embedded system control.
+Computer-vision system for real-time fire detection with automated alerting and suppression through embedded system control.
 
 <br>
 
-`Python`  
-`YOLOv8`  
-`OpenCV`  
-`Arduino`  
-`Machine Learning`  
-`Deep Learning`
+`Python` · `YOLOv8` · `OpenCV`  
+`Arduino` · `ML` · `Deep Learning`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 03 / CTR PREDICTION
+### 📊 CTR Prediction
 
-### 📊 Click-Through Rate Prediction
+**Click-Through Rate Prediction System**
 
-Machine learning system for predicting ad click-through behavior using user and browsing data.
+Machine learning system for predicting ad click-through behavior with a Flask-based interface for real-time predictions.
 
 <br>
 
-`Python`  
-`Pandas`  
-`NumPy`  
-`Scikit-learn`  
-`Random Forest`  
-`Flask`
+`Python` · `Pandas` · `NumPy`  
+`Scikit-learn` · `Random Forest` · `Flask`
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
-# 02 / TOOLKIT
-
-</div>
-
 <br>
 
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-
-### CODE
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-
-<br><br>
-
-`Python`  
-`C++`  
-`SQL`
-
-</td>
-
-<td width="25%" align="center">
-
-### AI / ML
-
-`Scikit-learn`
-
-`XGBoost`
-
-`TensorFlow`
-
-`NumPy`
-
-`Pandas`
-
-`Computer Vision`
-
-</td>
-
-<td width="25%" align="center">
-
-### SOFTWARE
-
-<img src="https://skillicons.dev/icons?i=flask,docker,git" />
-
-<br><br>
-
-`Flask`
-
-`REST APIs`
-
-`MySQL`
-
-`Docker`
-
-`Git`
-
-</td>
-
-<td width="25%" align="center">
-
-### EMBEDDED
-
-<img src="https://skillicons.dev/icons?i=arduino,esp32" />
-
-<br><br>
-
-`Arduino`
-
-`ESP32`
-
-</td>
-
-</tr>
-</table>
+### SOFTWARE · MACHINE LEARNING · GENERATIVE AI
 
 <br>
-
----
-
-<br>
-
-<div align="center">
-
-# 03 / GENERATIVE AI
-
-<br><br>
-
-### BUILDING THE PIPELINE
-
-<br>
-
-**LANGCHAIN**
-
-↓  
-
-**RAG**
-
-↓
-
-**VECTOR DATABASES**
-
-`ChromaDB` · `Pinecone` · `FAISS`
-
-↓
-
-**OLLAMA**
-
-<br><br>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# 04 / ENGINEERING FOCUS
-
-<br>
-
-### SOFTWARE
-Building applications and APIs with Python, Flask and REST.
-
-### MACHINE LEARNING
-From data preparation and feature engineering to model training and evaluation.
-
-### INTELLIGENT SYSTEMS
-Combining software, AI and connected hardware to solve practical problems.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### BUILD → EXPERIMENT → ITERATE
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,tensorflow,docker,git" />
-
-<br><br>
 
 </div>
