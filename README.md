@@ -2,79 +2,55 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=PARTH%20THAKUR&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20%C3%97%20AI%2FML&descAlignY=62&descSize=18&descColor=58A6FF" width="100%"/>
+# PARTH THAKUR
+
+### SOFTWARE × AI/ML
+
+**Building practical systems with code, data & intelligence.**
 
 <br>
 
-### Building practical systems with code, data & intelligence.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## SELECTED WORK
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td colspan="2">
-
-### 01 &nbsp; / &nbsp; MEDIBOT
-
-# 💊 IoT-Enabled & AI-Assisted Medicine Dispenser
-
-AI-assisted medicine dispensing system for automated medication scheduling and adherence, integrating embedded hardware with software for real-time monitoring and intelligent medication management.
-
-<br>
-
-`ESP32` &nbsp; `React` &nbsp; `REST API` &nbsp; `Flask` &nbsp; `MySQL` &nbsp; `Tailwind CSS`
+`SOFTWARE` &nbsp; `MACHINE LEARNING` &nbsp; `GENERATIVE AI` &nbsp; `COMPUTER VISION`
 
 <br><br>
 
-**PATENT FILED · 2026**
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,flask,tensorflow,docker,git" />
 
-</td>
-</tr>
+<br>
 
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# 01 / SELECTED WORK
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 02 &nbsp; / &nbsp; FIRE SENTINEL
+## 💊 MEDIBOT
 
-## 🔥 AI-Based Fire Detection & Suppression
+### IoT-Enabled & AI-Assisted Medicine Dispenser
 
-Computer-vision system for real-time fire detection with automated alerting and suppression through embedded control.
+AI-assisted medicine dispensing system for automated medication scheduling and adherence.
 
-<br>
-
-`Python` `YOLOv8` `OpenCV`  
-`Arduino` `Machine Learning` `Deep Learning`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 03 &nbsp; / &nbsp; CTR PREDICTION
-
-## 📊 Click-Through Rate Prediction
-
-Machine learning system for predicting ad click-through behavior with a Flask-based interface for real-time predictions.
+Combines embedded hardware with software for **real-time monitoring, intelligent medication management and sensor-based automation.**
 
 <br>
 
-`Python` `Pandas` `NumPy`  
-`Scikit-learn` `Random Forest` `Flask`
+**ESP32** · **React** · **REST API** · **Flask** · **MySQL** · **Tailwind CSS**
+
+<br><br>
+
+> **PATENT FILED · 2026**
 
 </td>
 </tr>
@@ -82,65 +58,205 @@ Machine learning system for predicting ad click-through behavior with a Flask-ba
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 02 / FIRE SENTINEL
+
+### 🔥 AI-Based Fire Detection & Suppression
+
+Real-time fire detection using computer vision with automated alerting and suppression through embedded system control.
+
+<br>
+
+`Python`  
+`YOLOv8`  
+`OpenCV`  
+`Arduino`  
+`Machine Learning`  
+`Deep Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 03 / CTR PREDICTION
+
+### 📊 Click-Through Rate Prediction
+
+Machine learning system for predicting ad click-through behavior using user and browsing data.
+
+<br>
+
+`Python`  
+`Pandas`  
+`NumPy`  
+`Scikit-learn`  
+`Random Forest`  
+`Flask`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
-## TOOLKIT
-
-<br>
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-
-<br><br>
-
-### AI / MACHINE LEARNING
-
-`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Computer Vision`
-
-<br>
-
-`Scikit-learn` &nbsp; `XGBoost` &nbsp; `TensorFlow`
-
-<br>
-
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Seaborn`
-
-<br><br>
-
-### GENERATIVE AI
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-5B5BFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
-
-<br><br>
-
-### SOFTWARE & SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=flask,docker,git,arduino,esp32" />
-
-<br><br>
-
-`REST APIs` &nbsp; `MySQL` &nbsp; `HTML` &nbsp; `CSS`
+# 02 / TOOLKIT
 
 </div>
 
 <br>
 
----
+<table width="100%">
+<tr>
 
-<div align="center">
+<td width="25%" align="center">
 
-### `BUILD  ·  EXPERIMENT  ·  ITERATE`
+### CODE
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+
+<br><br>
+
+`Python`  
+`C++`  
+`SQL`
+
+</td>
+
+<td width="25%" align="center">
+
+### AI / ML
+
+`Scikit-learn`
+
+`XGBoost`
+
+`TensorFlow`
+
+`NumPy`
+
+`Pandas`
+
+`Computer Vision`
+
+</td>
+
+<td width="25%" align="center">
+
+### SOFTWARE
+
+<img src="https://skillicons.dev/icons?i=flask,docker,git" />
+
+<br><br>
+
+`Flask`
+
+`REST APIs`
+
+`MySQL`
+
+`Docker`
+
+`Git`
+
+</td>
+
+<td width="25%" align="center">
+
+### EMBEDDED
+
+<img src="https://skillicons.dev/icons?i=arduino,esp32" />
+
+<br><br>
+
+`Arduino`
+
+`ESP32`
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+---
+
+<br>
+
+<div align="center">
+
+# 03 / GENERATIVE AI
+
+<br><br>
+
+### BUILDING THE PIPELINE
+
+<br>
+
+**LANGCHAIN**
+
+↓  
+
+**RAG**
+
+↓
+
+**VECTOR DATABASES**
+
+`ChromaDB` · `Pinecone` · `FAISS`
+
+↓
+
+**OLLAMA**
+
+<br><br>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# 04 / ENGINEERING FOCUS
+
+<br>
+
+### SOFTWARE
+Building applications and APIs with Python, Flask and REST.
+
+### MACHINE LEARNING
+From data preparation and feature engineering to model training and evaluation.
+
+### INTELLIGENT SYSTEMS
+Combining software, AI and connected hardware to solve practical problems.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### BUILD → EXPERIMENT → ITERATE
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,tensorflow,docker,git" />
+
+<br><br>
 
 </div>
